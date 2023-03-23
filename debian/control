@@ -18,7 +18,7 @@ Vcs-Git: https://github.com/hugolabe/Wike.git
 Package: wike
 Architecture: all
 Depends: ${misc:Depends},
-	gir1.2-webkit2-4.0,
+	gir1.2-webkit2-4.1,
 	gir1.2-handy-1,
 	python3-requests,
 	python3
