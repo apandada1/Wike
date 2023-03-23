@@ -53,6 +53,16 @@
   </screenshots>
 
   <releases>
+    <release version="1.8.3" date="2023-03-03">
+      <description>
+        <ul>
+          <li>Added shortcut for Random Article.</li>
+          <li>Small UI tweaks.</li>
+          <li>Updated translations.</li>
+          <li>Bumped to GNOME runtime 43 and WebKit 4.1.</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.8.2" date="2022-10-24">
       <description>
         <ul>
@@ -328,6 +338,7 @@
   </releases>
 
   <url type="homepage">https://hugolabe.github.io/Wike/</url>
+  <url type="bugtracker">https://github.com/hugolabe/Wike/issues</url>
   <url type="translate">https://poeditor.com/join/project?hash=kNgJu4MAum</url>
   <developer_name>Hugo Olabera</developer_name>
   <update_contact>hugolabe@gmail.com</update_contact>
