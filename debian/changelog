@@ -1,3 +1,9 @@
+wike (1.8.3) jammy; urgency=medium
+
+  * New Release
+
+ -- Archisman Panigrahi <apandada1@gmail.com>  Thu, 23 Mar 2023 10:30:23 -0500
+ 
 wike (1.8.2) jammy; urgency=medium
 
   * Debian Package
