@@ -19,7 +19,7 @@ Package: wike
 Architecture: all
 Depends: ${misc:Depends},
 	gir1.2-webkit2-4.1,
-	gir1.2-handy-1,
+	libadwaita-1-0,
 	python3-requests,
 	python3
 Description: Wikipedia reader for the GNOME Desktop
